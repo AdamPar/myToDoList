@@ -1,2 +1,2 @@
 # myToDoList
-A simple "To Do" list made with HTML, CSS , JS.
+A simple "To Do" list made in HTML, CSS , JS.
